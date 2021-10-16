@@ -1,0 +1,12 @@
+
+.banner h3{
+  color: lawngreen;
+  font-family: cursive;
+  font-weight: bolder;
+}
+.banner p{
+    color:hotpink;
+    font-size: 30px;
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+}
